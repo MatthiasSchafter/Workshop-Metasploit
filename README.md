@@ -29,7 +29,7 @@ Vos machines sont maintenant prêtes à être utilisées.
 
 Pour récupérer l'adresse IP de votre machine, une multitude de commande existe. Pour ma part, j'utilise la commande 'ifconfig" qui me permet d'afficher les informations des interfaces réseau.
 
-Une fois l’adresse. Ipv4 récupéré (sur la carte eth0), commence alors le travail d’analyse depuis le framework metasploit.
+Une fois l’adresse Ipv4 récupérée (sur la carte eth0), commence alors le travail d’analyse depuis le framework metasploit.
 
 
 
