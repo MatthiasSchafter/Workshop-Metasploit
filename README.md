@@ -18,7 +18,7 @@ Une fois l'installation terminée, lancez le fichier "Metasploitable.vmx" situé
 
 Un message va peut être s'afficher en vous demandant de mettre à jour la machine virtuelle, si c'est le cas, faites le.
 
-Une fois la machine lancée, utilisez le username "msfadmin" et le password "msfadmin" pour déverouiller la machine. Attention le clavier est mis par défaut en QWERTY, utilisez la commande "loadkeys fr" pour remettre le clavier en AZERTY une fois le compte déverouillé.
+Une fois la machine lancée, utilisez le username "msfadmin" et le password "msfadmin" pour déverouiller la machine. Attention le clavier est mis par défaut en QWERTY, utilisez la commande "sudo loadkeys fr" pour remettre le clavier en AZERTY une fois le compte déverouillé.
 
 Vos machines sont maintenant prêtes à être utilisées.
 
