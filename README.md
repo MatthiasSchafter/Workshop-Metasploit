@@ -14,7 +14,7 @@ Metasploitable :
 https://sourceforge.net/projects/metasploitable/
 
 Une fois les ISOs téléchargés, installez en premier KALI LINUX sur une machine virtuelle (VMware / Virtualbox). 
-Une fois cela fait, lancez directement le fichier "Metasploitable.vmx" situé dans le dossier compressé que vous avez téléchargé.
+Une fois l'installation terminée, lancez le fichier "Metasploitable.vmx" situé dans le dossier compressé que vous avez téléchargé.
 
 Un message va peut être s'afficher en vous demandant de mettre à jour la machine virtuelle, si c'est le cas, faites le.
 
@@ -41,7 +41,11 @@ Plusieurs commandes existe pour analyser une machine, il existe également diff�
 La 1ère chose que tout cyber-analyste fait, c’est de regarder la liste des ports ouverts/fermés/filtrés.
 
 La commande permettant de faire cela sur Linux s’appelle "nmap".
+
+- Lancez Metasploit sur Kali linux.
+
 Sur Metasploit, cette dernière est appelé "db_nmap" et fonctionne comme la commande "nmap". Je vous invite donc à regarder le man de la commande pour comprendre son fonctionnement et son intérêt.
+
 Une fois l’obtention des différentes versions, metasploit permet de chercher dans sa base de données des modules d’attaques. La commande à utiliser s’appelle search.
 
 Pour vous aidez, nous allons effectuer la première attaque ensemble. Ensuite, en autonomie, vous rechercherez d’autres vulnérabilités à exploiter.
